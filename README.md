@@ -12,10 +12,10 @@ Repository ini berisi contoh penerapan Exploratory Data Analysis (EDA) menggunak
 3. Matplotlib 3.3.4
 4. Seaborn 0.11.1
 # Cara Penggunaan
-Clone repository ini dengan command: git clone https://github.com/username/nama-repo.git
-Akses direktori repository: cd nama-repo
-Jalankan notebook Python pada direktori notebook untuk melihat contoh penerapan EDA pada data COVID-19
+1. Clone repository ini dengan command: git clone https://github.com/dheepss123/Simple-EDA-
+2. Akses direktori repository: cd nama-repo
+3. Jalankan notebook Python pada direktori notebook untuk melihat contoh penerapan EDA pada data COVID-19
 # Author
-Nama: [Dheo Putranta Pandia]
-Email: [dheepss321@gmail.com]
-project : [Personal]
+-Nama: [Dheo Putranta Pandia]
+-Email: [dheepss321@gmail.com]
+-project : [Personal]
